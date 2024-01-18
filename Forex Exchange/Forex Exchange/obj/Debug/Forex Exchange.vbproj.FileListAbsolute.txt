@@ -1,0 +1,42 @@
+C:\Users\User\source\repos\Forex Exchange\Forex Exchange\bin\Debug\Forex Exchange.exe.config
+C:\Users\User\source\repos\Forex Exchange\Forex Exchange\bin\Debug\Forex Exchange.exe
+C:\Users\User\source\repos\Forex Exchange\Forex Exchange\bin\Debug\Forex Exchange.pdb
+C:\Users\User\source\repos\Forex Exchange\Forex Exchange\bin\Debug\Forex Exchange.xml
+C:\Users\User\source\repos\Forex Exchange\Forex Exchange\obj\Debug\Forex Exchange.vbproj.AssemblyReference.cache
+C:\Users\User\source\repos\Forex Exchange\Forex Exchange\obj\Debug\Forex_Exchange.Form1.resources
+C:\Users\User\source\repos\Forex Exchange\Forex Exchange\obj\Debug\Forex_Exchange.Resources.resources
+C:\Users\User\source\repos\Forex Exchange\Forex Exchange\obj\Debug\Forex Exchange.vbproj.GenerateResource.cache
+C:\Users\User\source\repos\Forex Exchange\Forex Exchange\obj\Debug\Forex Exchange.vbproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Forex Exchange\Forex Exchange\obj\Debug\Forex Exchange.exe
+C:\Users\User\source\repos\Forex Exchange\Forex Exchange\obj\Debug\Forex Exchange.xml
+C:\Users\User\source\repos\Forex Exchange\Forex Exchange\obj\Debug\Forex Exchange.pdb
+C:\Users\Emprhaim Quiambao\OneDrive\Desktop\Gabatin,Joshua P\Forex Exchange\Forex Exchange\bin\Debug\Forex Exchange.exe.config
+C:\Users\Emprhaim Quiambao\OneDrive\Desktop\Gabatin,Joshua P\Forex Exchange\Forex Exchange\bin\Debug\Forex Exchange.exe
+C:\Users\Emprhaim Quiambao\OneDrive\Desktop\Gabatin,Joshua P\Forex Exchange\Forex Exchange\bin\Debug\Forex Exchange.pdb
+C:\Users\Emprhaim Quiambao\OneDrive\Desktop\Gabatin,Joshua P\Forex Exchange\Forex Exchange\bin\Debug\Forex Exchange.xml
+C:\Users\Emprhaim Quiambao\OneDrive\Desktop\Gabatin,Joshua P\Forex Exchange\Forex Exchange\obj\Debug\Forex Exchange.vbproj.AssemblyReference.cache
+C:\Users\Emprhaim Quiambao\OneDrive\Desktop\Gabatin,Joshua P\Forex Exchange\Forex Exchange\obj\Debug\Forex_Exchange.Form1.resources
+C:\Users\Emprhaim Quiambao\OneDrive\Desktop\Gabatin,Joshua P\Forex Exchange\Forex Exchange\obj\Debug\Forex_Exchange.Resources.resources
+C:\Users\Emprhaim Quiambao\OneDrive\Desktop\Gabatin,Joshua P\Forex Exchange\Forex Exchange\obj\Debug\Forex Exchange.vbproj.GenerateResource.cache
+C:\Users\Emprhaim Quiambao\OneDrive\Desktop\Gabatin,Joshua P\Forex Exchange\Forex Exchange\obj\Debug\Forex Exchange.vbproj.CoreCompileInputs.cache
+C:\Users\Emprhaim Quiambao\OneDrive\Desktop\Gabatin,Joshua P\Forex Exchange\Forex Exchange\obj\Debug\Forex Exchange.exe
+C:\Users\Emprhaim Quiambao\OneDrive\Desktop\Gabatin,Joshua P\Forex Exchange\Forex Exchange\obj\Debug\Forex Exchange.xml
+C:\Users\Emprhaim Quiambao\OneDrive\Desktop\Gabatin,Joshua P\Forex Exchange\Forex Exchange\obj\Debug\Forex Exchange.pdb
+C:\Users\Emprhaim Quiambao\OneDrive\Desktop\Quiambao Emprhaim T. Forex Exc\Forex Exchange\Forex Exchange\bin\Debug\Forex Exchange.exe.config
+C:\Users\Emprhaim Quiambao\OneDrive\Desktop\Quiambao Emprhaim T. Forex Exc\Forex Exchange\Forex Exchange\bin\Debug\Forex Exchange.exe
+C:\Users\Emprhaim Quiambao\OneDrive\Desktop\Quiambao Emprhaim T. Forex Exc\Forex Exchange\Forex Exchange\bin\Debug\Forex Exchange.pdb
+C:\Users\Emprhaim Quiambao\OneDrive\Desktop\Quiambao Emprhaim T. Forex Exc\Forex Exchange\Forex Exchange\bin\Debug\Forex Exchange.xml
+C:\Users\Emprhaim Quiambao\OneDrive\Desktop\Quiambao Emprhaim T. Forex Exc\Forex Exchange\Forex Exchange\obj\Debug\Forex Exchange.vbproj.AssemblyReference.cache
+C:\Users\Emprhaim Quiambao\OneDrive\Desktop\Quiambao Emprhaim T. Forex Exc\Forex Exchange\Forex Exchange\obj\Debug\Forex_Exchange.Form1.resources
+C:\Users\Emprhaim Quiambao\OneDrive\Desktop\Quiambao Emprhaim T. Forex Exc\Forex Exchange\Forex Exchange\obj\Debug\Forex_Exchange.Resources.resources
+C:\Users\Emprhaim Quiambao\OneDrive\Desktop\Quiambao Emprhaim T. Forex Exc\Forex Exchange\Forex Exchange\obj\Debug\Forex Exchange.vbproj.GenerateResource.cache
+C:\Users\Emprhaim Quiambao\OneDrive\Desktop\Quiambao Emprhaim T. Forex Exc\Forex Exchange\Forex Exchange\obj\Debug\Forex Exchange.vbproj.CoreCompileInputs.cache
+C:\Users\Emprhaim Quiambao\OneDrive\Desktop\Quiambao Emprhaim T. Forex Exc\Forex Exchange\Forex Exchange\obj\Debug\Forex Exchange.exe
+C:\Users\Emprhaim Quiambao\OneDrive\Desktop\Quiambao Emprhaim T. Forex Exc\Forex Exchange\Forex Exchange\obj\Debug\Forex Exchange.xml
+C:\Users\Emprhaim Quiambao\OneDrive\Desktop\Quiambao Emprhaim T. Forex Exc\Forex Exchange\Forex Exchange\obj\Debug\Forex Exchange.pdb
+C:\Users\Emprhaim Quiambao\OneDrive\Desktop\Quiambao Emprhaim T. Forex Exchange\Forex Exchange\Forex Exchange\obj\Debug\Forex Exchange.vbproj.AssemblyReference.cache
+C:\Users\Emprhaim Quiambao\OneDrive\Desktop\Quiambao Emprhaim T. Forex Exchange\Forex Exchange\Forex Exchange\obj\Debug\Forex_Exchange.Form1.resources
+C:\Users\Emprhaim Quiambao\OneDrive\Desktop\Quiambao Emprhaim T. Forex Exchange\Forex Exchange\Forex Exchange\obj\Debug\Forex Exchange.vbproj.GenerateResource.cache
+C:\Users\Emprhaim Quiambao\OneDrive\Desktop\Quiambao Emprhaim T. Forex Exchange\Forex Exchange\Forex Exchange\obj\Debug\Forex Exchange.exe
+C:\Users\Emprhaim Quiambao\OneDrive\Desktop\Quiambao Emprhaim T. Forex Exchange\Forex Exchange\Forex Exchange\obj\Debug\Forex Exchange.xml
+C:\Users\Emprhaim Quiambao\OneDrive\Desktop\Quiambao Emprhaim T. Forex Exchange\Forex Exchange\Forex Exchange\obj\Debug\Forex Exchange.pdb
